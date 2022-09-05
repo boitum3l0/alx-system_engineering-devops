@@ -7,3 +7,4 @@ T.5 Display the first 10 lines of /etc/passwd
 T.6 A script that displays the third line of the file iacta
 T.7 A shell script that creates a specific file name
 T.8 Write a script that writes into a file
+T.9 a script that duplicates the last line of the file iacta
