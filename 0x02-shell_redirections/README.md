@@ -8,3 +8,4 @@ T.6 A script that displays the third line of the file iacta
 T.7 A shell script that creates a specific file name
 T.8 Write a script that writes into a file
 T.9 a script that duplicates the last line of the file iacta
+T.10 a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders
