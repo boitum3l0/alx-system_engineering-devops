@@ -3,3 +3,4 @@ T.1 a script that displays a confused smiley
 T.2 Display the content of the /etc/passwd file.
 T.4 Display the content of /etc/passwd and /etc/hosts
 Display the last 10 lines of /etc/passwd
+T.5 Display the first 10 lines of /etc/passwd
