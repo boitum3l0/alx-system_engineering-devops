@@ -22,3 +22,4 @@ T.10 a script that deletes all the regular files (not the directories) with a .j
 
 T.11 A script that counts the number of directories and sub-directories in the current directory
 T.15 Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
